@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/fourdle/static/css/main.538d886a.css",
-    "main.js": "/fourdle/static/js/main.7b92871d.js",
+    "main.css": "/fourdle/static/css/main.1a37c7be.css",
+    "main.js": "/fourdle/static/js/main.d9673de0.js",
     "index.html": "/fourdle/index.html",
-    "main.538d886a.css.map": "/fourdle/static/css/main.538d886a.css.map",
-    "main.7b92871d.js.map": "/fourdle/static/js/main.7b92871d.js.map"
+    "main.1a37c7be.css.map": "/fourdle/static/css/main.1a37c7be.css.map",
+    "main.d9673de0.js.map": "/fourdle/static/js/main.d9673de0.js.map"
   },
   "entrypoints": [
-    "static/css/main.538d886a.css",
-    "static/js/main.7b92871d.js"
+    "static/css/main.1a37c7be.css",
+    "static/js/main.d9673de0.js"
   ]
 }
